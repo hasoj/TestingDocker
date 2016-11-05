@@ -1,2 +1,2 @@
 apt-get -qq update
-apt-get install git vim mc python
+apt-get install --no-install-recommends -y git vim mc python
